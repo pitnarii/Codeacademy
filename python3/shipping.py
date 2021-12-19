@@ -20,3 +20,4 @@ elif weight >=6 and weight <=10:
 else:
   cost_drone = weight * 14.25 + 0
 print("cost_drone $", cost_drone)
+¬
